@@ -25,3 +25,16 @@ img {
   max-width: 100%;
   display: block;
 }
+
+
+
+.container {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.space {
+  width: 20px;
+}
